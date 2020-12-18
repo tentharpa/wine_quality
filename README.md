@@ -1,1 +1,2 @@
 # wine_quality
+The project is about predicting the wine quality. This project uses two datasets, one for red wine and one for white wine. The project works through analysing the factors that effect the ratings of the wine. The project also does a comparison between the two kinds of wine. The conclusions are drawn using statistical analysis and data visualization. The project is writtten in pyhton. 
